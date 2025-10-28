@@ -13,7 +13,7 @@ I’m obsessed with systems that are predictable and elegant — the kind you do
 - System design — because scaling breaks everything eventually.
 - API reliability — making sure your backend doesn’t ghost you.
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onknown54&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=onknown54&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=onknown54&theme=calm_pink&hide_border=false)
