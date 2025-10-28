@@ -17,9 +17,9 @@ I’m obsessed with systems that are predictable and elegant — the kind you do
 Collaborations on backend-heavy projects, developer tooling, Open-source tools that make developers' lives easier, or cleaner codebases that deserve to stay that way.
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=onknown54&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=onknown54&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onknown54&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=onknown54&theme=calm_pink&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=onknown54&theme=calm_pink&hide_border=false)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
