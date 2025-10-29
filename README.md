@@ -1,4 +1,4 @@
-# About Me
+# Summary
 Full-stack engineer who enjoys making things work and making them make sense. I spend my time building with NestJS, Next.js, TypeScript, and Laravel. Occasionally, I yell at Rust until it teaches me something new.<br><br>
 I’m obsessed with systems that are predictable and elegant — the kind you don’t have to apologize for six months later.
 
@@ -21,7 +21,7 @@ I’m obsessed with systems that are predictable and elegant — the kind you do
 # Open To
 Collaborations on backend-heavy projects, developer tooling, Open-source tools that make developers' lives easier, or cleaner codebases that deserve to stay that way.
 
-### Random Dev Quote
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
